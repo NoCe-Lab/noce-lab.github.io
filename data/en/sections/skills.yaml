@@ -1,0 +1,73 @@
+# section information
+section:
+  name: Members & Friends
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Dr. Valentina Borghesani, PhD
+  #logo: images/sections/skills/me2.svg
+  summary: "Lab director and Assistant Professor at the FAPSE (UNIGE) withing the NCCR Evolving Language. <br> <br> <img src='https://loop.frontiersin.org/images/profile/466768/203' style='display: block; margin-left: auto; margin-right: auto;' width='150' height='150'>"
+  url: "https://linktr.ee/vborghesani"
+  
+- name: Abigail Licata, MSc
+  #logo: /images/sections/skills/docker.svg
+  summary: "PhD student, studying the neurocognitive correlates of semantic knowledge in bilinguals with a multimodal approach. <br> <br> <img src='https://i.imgur.com/nu9aeW0.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
+  url: "https://de.linkedin.com/in/abigail-licata-456929103/zh-cn"
+
+- name: Sarah Saneei, Msc
+  #logo: /images/sections/skills/docker.svg
+  summary: "PhD student, studying how we can use large language models as in-silico model of human language. <br> <br> <img src='https://i.imgur.com/4GmZLWO.jpg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
+  url: "https://www.linkedin.com/in/sarah-saneei/"
+
+- name: Marion Bouffier, PhD
+  #logo: /images/sections/skills/docker.svg
+  summary: "Postdoctoral researcher, studying the interaction of language and other cognitive functions. <br> <br> <img src='https://i.imgur.com/I4LAGs8.jpg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
+  url: "https://www.researchgate.net/profile/Marion-Bouffier"
+ 
+- name: Lorraine Dubuis
+  #logo: /images/sections/skills/docker.svg
+  summary: "Administrative collaborator within the secretariat of the teachers of the Psychology Section.  <br> <br> <img src='https://www.unige.ch/fapse/womcogdev/application/files/3315/7168/0532/Dubuis.jpg' style='display: block; margin-left: auto; margin-right: auto;' width='150' height='150'>"
+  url: "https://www.unige.ch/fapse/people/administration/dubuis-lorraine/"
+
+- name: Maybe you?
+  #logo: /images/sections/skills/docker.svg
+  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you! Get in touch via this form. <br> <br> "
+  url: "https://forms.gle/Z9MTU6G8SQe14DkT9"
+
+- name: CNeuromod Team
+  #logo: /images/sections/skills/docker.svg
+  summary: "The Courtois NeuroMod (short for neuronal modeling) project is based in Montreal (Canada) but has collaborators in the whole word. We help out with the language-related tasks."
+  url: "https://www.cneuromod.ca/"
+  
+- name: Dr. Gorno-Tempini, MD Ph.D.
+  #logo: /images/sections/skills/docker.svg
+  summary: "Charles Schwab Endowed Professor in Dyslexia and Neurodevelopment, she directs the UCSF Language Neurobiology Laboratory and co-directs the UCSF Dyslexia Center."
+  url: https://albalab.ucsf.edu/people/marilu-gorno-tempini-md-phd"
+
+
+- name:  Dr. Sladjana Lukic, Ph.D.
+  #logo: /images/sections/skills/sladja.svg
+  summary: "Assistant Professor in the Communication Sciences and Disorders Department of Adelphi University, studying the neurobiology of language and its relation with emotion & cognition."
+  url: "https://sites.google.com/view/sladjanalukic"
+
+- name: Dr. Pedro Pinheiro-Chagas, Ph.D.
+  #logo: /images/sections/skills/docker.svg
+  summary: "Assistant Professor in Cognitive Neuroscience at UCSF, studying the neural architecture and dynamics of human intelligence, with a focus on cognitive symbolic systems."
+  url: "https://pinheirochagas.com/"
+
+- name: Dr. Marina Laganaro, Ph.D.
+  #logo: /images/sections/skills/docker.svg
+  summary: "UNIGE (FPSE) Professor, she directs the NeuroPsychoLinguistics lab, studying language and speech production in neurotypical as well as brain-damaged adults."
+  url: "https://www.unige.ch/fapse/psycholinguistique/equipes/npl/membres/marinalaganaro"
+
+- name: Dr. Alex Pouget, Ph.D.
+  #logo: /images/sections/skills/docker.svg
+  summary: "UNIGE (Medicine) Professor in basic neuroscience, he directs a team attempting to uncover general principles of representation and computation in neural circuits."
+  url: "https://www.unige.ch/medecine/neuf/en/research/grecherche/alexandre-pouget/g/alexandre-pouget/"

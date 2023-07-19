@@ -1,0 +1,47 @@
+# section information
+section:
+  name: Resources
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your accomplishments
+accomplishments:
+- name: Code, stimuli & data.  
+  organization:
+    name: Code sharing and version control on Github
+    url: https://github.com/NoCe-Lab
+  courseOverview: We strive to keep our tools tidy and share them here. If you are interested in some of our analyses and can't find the corresponding code, please get in touch.
+
+- name: Reading, watching, listening
+  organization:
+    name: Our curated reading & watching list
+    url: https://docs.google.com/spreadsheets/d/e/2PACX-1vS2-ZPCFxqyeyVSEnaF_FNQryr-ewygXPtNETgD3V0BX0wGS34Q5tqzhlygsX8ruzpvoTrv5NxYcW4m/pubhtml
+  courseOverview: The schedule of our past & future journal clubs, the conferences and seminars we follow/attend, and our lab library. Get in touch if you'd like to join or suggest a paper/speaker/book.
+
+- name: Learning about language  
+  organization:
+    name: Neurobiology of Language
+    url: https://vborghe.github.io/Neurobio_Lang/intro.html 
+  courseOverview: Teaching materials for the course on the Neurobiology of Language (in English only)
+
+- name: Learning about frontotemporal dementia   
+  organization:
+    name: Frontotemporal Dementia and Language 
+    url: https://vborghe.github.io/FTD_CogNeuro/intro.html
+  courseOverview: Teaching materials for the course on Frontotemporal Dementia and Language (in English only)
+
+- name: Learning about semantic memory 
+  organization:
+    name: Semantic Memory
+    url: https://vborghe.github.io/Semantique/intro.html
+  courseOverview: Teaching materials for the course on Semantic Memory (in French only)
+
+- name: Grants and job applications materials 
+  organization:
+    name: Shared applications
+    url: https://drive.google.com/drive/folders/1AnO9zyNdwcKRi6qFy0LJcdkLgLzK0aAZ?usp=sharing
+  courseOverview: We here share grants, fellowship, scholarhip, and job market materials. 
