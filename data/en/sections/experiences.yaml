@@ -12,6 +12,16 @@ section:
 experiences:
 
 - company:
+    name: We welcome a new team member, Sarah, a Ph.D. student co-supervised by Valentina and Timothée Proix.
+  positions:
+  - designation: Welcome Sarah!
+    start: February 1st
+    end: 2023
+    responsibilities:
+    - you will do X and Z
+    - you will do X and Z
+    
+- company:
     name: We are here and ready to roll. The official start date is September 1st, but we are already busy with the NCCR Summer school and the Doctoral School retreat. What a great start!
   positions:
   - designation: Here we come UNIGE!

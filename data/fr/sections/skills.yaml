@@ -21,6 +21,11 @@ skills:
   summary: "Doctorante, elle étudie les corrélats neurocognitifs des connaissances sémantiques chez les bilingues avec une approche multimodale.  <br> <br> <img src='https://i.imgur.com/nu9aeW0.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: "https://de.linkedin.com/in/abigail-licata-456929103/zh-cn"
 
+- name: Sarah Saneei, Msc
+  #logo: /images/sections/skills/docker.svg
+  summary: "Doctorante, elle étudie le modèles NLP comme modèle in-silico du langage humain. <br> <br> <img src='https://i.imgur.com/4GmZLWO.jpg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
+  url: "https://www.linkedin.com/in/sarah-saneei/"
+
 - name: Marion Bouffier, PhD
   #logo: /images/sections/skills/docker.svg
   summary: "Chercheuse postdoctorale, elle étudie l'interaction entre le langage et d'autres fonctions cognitives. <br> <br> <img src='https://i.imgur.com/I4LAGs8.jpg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
@@ -31,14 +36,9 @@ skills:
   summary: "Collaboratrice administrative au sein du secrétariat des enseignants de la Section de psychologie. <br> <br> <img src='https://www.unige.ch/fapse/womcogdev/application/files/3315/7168/0532/Dubuis.jpg' style='display: block; margin-left: auto; margin-right: auto;' width='150' height='150'>"
   url: "https://www.unige.ch/fapse/people/administration/dubuis-lorraine/"
 
-- name: Master/PhD Student - vous? 
+- name: Maybe you next?
   #logo: /images/sections/skills/docker.svg
-  summary: "Êtes-vous intéressé·e par les corrélats neuro-cognitifs des connaissances sémantiques? Cela pourrait être vous! Contactez-nous via ce formulaire."
-  url: "https://forms.gle/Z9MTU6G8SQe14DkT9"
-
-- name: Postdoc - you?
-  #logo: /images/sections/skills/docker.svg
-  summary: "Are you interested in the neuro-cognitive correlates of semantic knowledge? This could be you! Get in touch via this form. <br> <br> "
+  summary: "Vous vous intéressez aux corrélats neuro-cognitifs des connaissances sémantiques? Ca aurait pu être toi! Prenez contact via ce formulaire. <br> <br> "
   url: "https://forms.gle/Z9MTU6G8SQe14DkT9"
 
 - name: CNeuromod Team

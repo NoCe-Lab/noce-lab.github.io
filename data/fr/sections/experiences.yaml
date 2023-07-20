@@ -12,6 +12,16 @@ section:
 experiences:
 
 - company:
+    name: Nous accueillons une nouvelle membre dans l'équipe, Sarah, étudiantee au doctorat co-encadrée par Valentina et Timothée Proix.
+  positions:
+  - designation: Bienvenue Sarah!
+    start: February 1st
+    end: 2023
+    responsibilities:
+    - you will do X and Z
+    - you will do X and Z
+
+- company:
     name: Nous sommes là et prêts à démarrer. La date de début officielle est le 1er septembre, mais nous sommes déjà occupés par l'école d'été du PRN et la retraite de l'école doctorale. Quel bon début!
   positions:
   - designation: Coucou UNIGE!
