@@ -26,6 +26,11 @@ skills:
   summary: "PhD student, studying how we can use large language models as in-silico model of human language. <br> <br> <img src='https://i.imgur.com/4GmZLWO.jpg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: "https://www.linkedin.com/in/sarah-saneei/"
 
+- name: Kenza Latreche, Msc
+  #logo: /images/sections/skills/docker.svg
+  summary: "PhD student, studying the development of language and semantics in young children with autism spectrum disorder. <br> <br> <img src='https://i.imgur.com/wDzHoK7.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
+  url: "https://www.researchgate.net/profile/Kenza-Latreche"
+
 - name: Marion Bouffier, PhD
   #logo: /images/sections/skills/docker.svg
   summary: "Postdoctoral researcher, studying the interaction of language and other cognitive functions. <br> <br> <img src='https://i.imgur.com/I4LAGs8.jpg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
@@ -51,16 +56,15 @@ skills:
   summary: "Charles Schwab Endowed Professor in Dyslexia and Neurodevelopment, she directs the UCSF Language Neurobiology Laboratory and co-directs the UCSF Dyslexia Center."
   url: https://albalab.ucsf.edu/people/marilu-gorno-tempini-md-phd"
 
-
 - name:  Dr. Sladjana Lukic, Ph.D.
   #logo: /images/sections/skills/sladja.svg
   summary: "Assistant Professor in the Communication Sciences and Disorders Department of Adelphi University, studying the neurobiology of language and its relation with emotion & cognition."
   url: "https://sites.google.com/view/sladjanalukic"
 
-- name: Dr. Pedro Pinheiro-Chagas, Ph.D.
+#- name: Dr. Pedro Pinheiro-Chagas, Ph.D.
   #logo: /images/sections/skills/docker.svg
-  summary: "Assistant Professor in Cognitive Neuroscience at UCSF, studying the neural architecture and dynamics of human intelligence, with a focus on cognitive symbolic systems."
-  url: "https://pinheirochagas.com/"
+  #summary: "Assistant Professor in Cognitive Neuroscience at UCSF, studying the neural architecture and dynamics of human intelligence, with a focus on cognitive symbolic systems."
+  #url: "https://pinheirochagas.com/"
 
 - name: Dr. Marina Laganaro, Ph.D.
   #logo: /images/sections/skills/docker.svg

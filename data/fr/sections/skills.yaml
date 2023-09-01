@@ -26,6 +26,11 @@ skills:
   summary: "Doctorante, elle étudie le modèles NLP comme modèle in-silico du langage humain. <br> <br> <img src='https://i.imgur.com/4GmZLWO.jpg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: "https://www.linkedin.com/in/sarah-saneei/"
 
+- name: Kenza Latreche, Msc
+  #logo: /images/sections/skills/docker.svg
+  summary: "Doctorante, étudiant le développement du langage et de la sémantique chez les jeunes enfants avec un trouble du spectre de l’autisme.<br> <br> <img src='https://i.imgur.com/wDzHoK7.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
+  url: "https://www.researchgate.net/profile/Kenza-Latreche"
+
 - name: Marion Bouffier, PhD
   #logo: /images/sections/skills/docker.svg
   summary: "Chercheuse postdoctorale, elle étudie l'interaction entre le langage et d'autres fonctions cognitives. <br> <br> <img src='https://i.imgur.com/I4LAGs8.jpg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
@@ -56,10 +61,10 @@ skills:
   summary: "Professeure assistante dans le département des sciences et des troubles de la communication de l'Université d'Adelphi, elle étudie la neurobiologie du langage et sa relation avec l'émotion et la cognition."
   url: "https://sites.google.com/view/sladjanalukic"
 
-- name: Dr. Pedro Pinheiro-Chagas, Ph.D.
+#- name: Dr. Pedro Pinheiro-Chagas, Ph.D.
   #logo: /images/sections/skills/docker.svg
-  summary: "Professeur assistant en neurosciences cognitives à l'UCSF, il étudie l'architecture neuronale et la dynamique de l'intelligence humaine, avec un accent sur les systèmes symboliques cognitifs."
-  url: "https://pinheirochagas.com/"
+  #summary: "Professeur assistant en neurosciences cognitives à l'UCSF, il étudie l'architecture neuronale et la dynamique de l'intelligence humaine, avec un accent sur les systèmes symboliques cognitifs."
+  #url: "https://pinheirochagas.com/"
 
 - name: Dr. Marina Laganaro, Ph.D.
   #logo: /images/sections/skills/docker.svg

@@ -12,10 +12,20 @@ section:
 experiences:
 
 - company:
+    name: Nous accueillons une nouvelle membre dans l'équipe, Kenza, étudiantee au doctorat co-encadrée par Valentina et Marie Schaer.
+  positions:
+  - designation: Bienvenue Kenza!
+    start: Septembre 1st
+    end: 2023
+    responsibilities:
+    - you will do X and Z
+    - you will do X and Z
+    
+- company:
     name: Nous accueillons une nouvelle membre dans l'équipe, Sarah, étudiantee au doctorat co-encadrée par Valentina et Timothée Proix.
   positions:
   - designation: Bienvenue Sarah!
-    start: February 1st
+    start: Février 1st
     end: 2023
     responsibilities:
     - you will do X and Z
@@ -25,7 +35,7 @@ experiences:
     name: Nous sommes là et prêts à démarrer. La date de début officielle est le 1er septembre, mais nous sommes déjà occupés par l'école d'été du PRN et la retraite de l'école doctorale. Quel bon début!
   positions:
   - designation: Coucou UNIGE!
-    start: August 1st
+    start: Août 1st
     end: 2022
     responsibilities:
     - you will do X and Z
@@ -35,7 +45,7 @@ experiences:
     name: Notre équipe s'agrandit. Abigail et Marion nous rejoindront dans les prochains mois en tant que chercheuse doctorante et chercheuse postdoctorale, respectivement.
   positions:
   - designation: Bienvenue Abigail et Marion!
-    start: July 1st
+    start: Juillet 1st
     end: 2022
     responsibilities:
     - you will do X and Z
