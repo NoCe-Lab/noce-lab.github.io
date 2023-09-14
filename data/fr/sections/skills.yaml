@@ -11,12 +11,17 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Dr. Valentina Borghesani, Ph.D.
+- name: Valentina Borghesani, Ph.D.
   #logo: images/sections/skills/me2.svg
   summary: "Directrice du laboratoire et professeure assistante à la FAPSE (UNIGE) au sein du NCCR Evolving Language. <br> <br> <img src='https://loop.frontiersin.org/images/profile/466768/203' style='display: block; margin-left: auto; margin-right: auto;' width='150' height='150'>"
   url: "https://linktr.ee/vborghesani"
-    
-- name: Abigail Licata, BS, MSc
+
+- name: Lina Languer, BS
+  #logo: /images/sections/skills/docker.svg
+  summary: " Étudiante en master de neurosciences, passionnée par le domaine du langage, ici pour apprendre et découvrir. <br> <br> <img src='https://i.imgur.com/sjjjo9O.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
+  url: ""
+  
+- name: Abigail Licata, MSc
   #logo: /images/sections/skills/docker.svg
   summary: "Doctorante, elle étudie les corrélats neurocognitifs des connaissances sémantiques chez les bilingues avec une approche multimodale.  <br> <br> <img src='https://i.imgur.com/nu9aeW0.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: "https://de.linkedin.com/in/abigail-licata-456929103/zh-cn"
@@ -41,10 +46,10 @@ skills:
   summary: "Collaboratrice administrative au sein du secrétariat des enseignants de la Section de psychologie. <br> <br> <img src='https://www.unige.ch/fapse/womcogdev/application/files/3315/7168/0532/Dubuis.jpg' style='display: block; margin-left: auto; margin-right: auto;' width='150' height='150'>"
   url: "https://www.unige.ch/fapse/people/administration/dubuis-lorraine/"
 
-- name: Maybe you next?
+#- #name: Maybe you next?
   #logo: /images/sections/skills/docker.svg
-  summary: "Vous vous intéressez aux corrélats neuro-cognitifs des connaissances sémantiques? Ca aurait pu être toi! Prenez contact via ce formulaire. <br> <br> "
-  url: "https://forms.gle/Z9MTU6G8SQe14DkT9"
+  #summary: "Vous vous intéressez aux corrélats neuro-cognitifs des connaissances sémantiques? Ca aurait pu être toi! Prenez contact via ce formulaire. <br> <br> "
+  #url: "https://forms.gle/Z9MTU6G8SQe14DkT9"
 
 - name: CNeuromod Team
   #logo: /images/sections/skills/docker.svg
