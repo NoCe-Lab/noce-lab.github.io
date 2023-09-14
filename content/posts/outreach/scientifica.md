@@ -77,7 +77,7 @@ Word Analogy: colour - rainbow + note  =  Call\
 Word Analogy: colour - rainbow + music  =  Concert\
 Word Analogy: human - artificial intelligence + animal  =  Flea\
 Word Analogy: bacteria - microbiome + virus  =  Hapmap\
-Word Analogy: bacteria - microbiome + human  =  Recognises\
+Word Analogy: bacteria - microbiome + human  =  Recognises
 
 #### Addressing Concerns and Questions
 We also had engaging discussions with attendees who expressed concerns about ChatGPT and the rapid advancement of language models. Some were curious about the limitations of these large language models. We valued these conversations and provided insights to address their queries.
@@ -85,5 +85,6 @@ We also had engaging discussions with attendees who expressed concerns about Cha
 <img src="https://i.imgur.com/xgwfiAb.jpeg" height="400">
 
 #### A Memorable Weekend in Zurich
-We had an enriching and wonderful weekend in Zurich, thanks to the enthusiastic participation of everyone who visited our booth, the Scientifica organisers and NCCR Evolving Language. This activity required us to be able to explain our research to everyone -from the professor curious to hear about our research to the 5-year old child. We were also encouraged to switch between languages, as participants could be German-, French- or English-speaking; this also trained our own language network ;)
-Scientifica continues to be a vital platform for fostering dialogue between researchers and the public. See you next year at La Nuit de la Science in Geneva! :)
+We had an enriching and wonderful weekend in Zurich, thanks to the enthusiastic participation of everyone who visited our booth, the Scientifica organisers and NCCR Evolving Language. This activity required us to be able to explain our research to everyone -from the professor curious to hear about our research to the 5-year old child. We were also encouraged to switch between languages, as participants could be German-, French- or English-speaking; this also trained our own language network :wink:\
+Scientifica continues to be a vital platform for fostering dialogue between researchers and the public. 
+See you next year at La Nuit de la Science in Geneva! :smile:
