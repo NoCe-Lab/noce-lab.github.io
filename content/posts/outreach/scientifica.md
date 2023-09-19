@@ -93,6 +93,7 @@ We also had engaging discussions with attendees who expressed concerns about Cha
 </p>
 
 #### A Memorable Weekend in Zurich
-We had an enriching and wonderful weekend in Zurich, thanks to the enthusiastic participation of everyone who visited our booth, the Scientifica organisers and NCCR Evolving Language. This activity required us to be able to explain our research to everyone -from the professor curious to hear about our research to the 5-year old child. We were also encouraged to switch between languages, as participants could be German-, French- or English-speaking; this also trained our own language network :wink:\
+We had an enriching and wonderful weekend in Zurich, thanks to the enthusiastic participation of everyone who visited our booth, the Scientifica organisers and NCCR Evolving Language (See their post on the event [here](https://evolvinglanguage.ch/representing-the-nccr-evolving-language-at-scientifica23-zurich/)). This activity required us to be able to explain our research to everyone -from the professor curious to hear about our research to the 5-year old child. We were also encouraged to switch between languages, as participants could be German-, French- or English-speaking; this also trained our own language network :wink:\
 Scientifica continues to be a vital platform for fostering dialogue between researchers and the public. 
 See you next year at La Nuit de la Science in Geneva! :smile:
+
