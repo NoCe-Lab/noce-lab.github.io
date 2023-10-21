@@ -12,9 +12,19 @@ section:
 experiences:
 
 - company:
+    name: Lina et Tatiana nous rejoignent pour travailler sur leur mémoire de master en neurosciences et en psychologie, respectivement.
+  positions:
+  - designation: Bienvenue à Lina & Tatiana!
+    start: October 1st
+    end: 2023
+    responsibilities:
+    - you will do X and Z
+    - you will do X and Z
+
+- company:
     name: Nous accueillons une nouvelle membre dans l'équipe, Kenza, étudiantee au doctorat co-encadrée par Valentina et Marie Schaer.
   positions:
-  - designation: Bienvenue Kenza!
+  - designation: Bienvenue à Kenza!
     start: Septembre 1st
     end: 2023
     responsibilities:
@@ -24,7 +34,7 @@ experiences:
 - company:
     name: Nous accueillons une nouvelle membre dans l'équipe, Sarah, étudiantee au doctorat co-encadrée par Valentina et Timothée Proix.
   positions:
-  - designation: Bienvenue Sarah!
+  - designation: Bienvenue à Sarah!
     start: Février 1st
     end: 2023
     responsibilities:
@@ -44,7 +54,7 @@ experiences:
 - company:
     name: Notre équipe s'agrandit. Abigail et Marion nous rejoindront dans les prochains mois en tant que chercheuse doctorante et chercheuse postdoctorale, respectivement.
   positions:
-  - designation: Bienvenue Abigail et Marion!
+  - designation: Bienvenue à Abigail et Marion!
     start: Juillet 1st
     end: 2022
     responsibilities:

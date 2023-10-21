@@ -16,9 +16,14 @@ skills:
   summary: "Directrice du laboratoire et professeure assistante à la FAPSE (UNIGE) au sein du NCCR Evolving Language. <br> <br> <img src='https://loop.frontiersin.org/images/profile/466768/203' style='display: block; margin-left: auto; margin-right: auto;' width='150' height='150'>"
   url: "https://linktr.ee/vborghesani"
 
-- name: Lina Languer, BS
+- name: Lina Languer, BSc
   #logo: /images/sections/skills/docker.svg
   summary: " Étudiante en master de neurosciences, passionnée par le domaine du langage, ici pour apprendre et découvrir. <br> <br> <img src='https://i.imgur.com/sjjjo9O.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
+  url: ""
+
+- name: Tatiana Falquet, BSc
+  #logo: /images/sections/skills/docker.svg
+  summary: " Étudiante en master, intéressée à comprendre comment le vieillissement influence les fonctions cognitives et les structures cérébrales. <br> <br> <img src='https://i.imgur.com/gqfAFF7.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: ""
   
 - name: Abigail Licata, MSc
@@ -26,17 +31,17 @@ skills:
   summary: "Doctorante, elle étudie les corrélats neurocognitifs des connaissances sémantiques chez les bilingues avec une approche multimodale.  <br> <br> <img src='https://i.imgur.com/nu9aeW0.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: "https://de.linkedin.com/in/abigail-licata-456929103/zh-cn"
 
-- name: Sarah Saneei, Msc
+- name: Sarah Saneei, MSc
   #logo: /images/sections/skills/docker.svg
   summary: "Doctorante, elle étudie le modèles NLP comme modèle in-silico du langage humain. <br> <br> <img src='https://i.imgur.com/4GmZLWO.jpg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: "https://www.linkedin.com/in/sarah-saneei/"
 
-- name: Kenza Latreche, Msc
+- name: Kenza Latreche, MSc
   #logo: /images/sections/skills/docker.svg
   summary: "Doctorante, étudiant le développement du langage et de la sémantique chez les jeunes enfants avec un trouble du spectre de l’autisme.<br> <br> <img src='https://i.imgur.com/wDzHoK7.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: "https://www.researchgate.net/profile/Kenza-Latreche"
 
-- name: Marion Bouffier, PhD
+- name: Marion Bouffier, Ph.D.
   #logo: /images/sections/skills/docker.svg
   summary: "Chercheuse postdoctorale, elle étudie l'interaction entre le langage et d'autres fonctions cognitives. <br> <br> <img src='https://i.imgur.com/I4LAGs8.jpg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: "https://www.researchgate.net/profile/Marion-Bouffier"
@@ -46,10 +51,10 @@ skills:
   summary: "Collaboratrice administrative au sein du secrétariat des enseignants de la Section de psychologie. <br> <br> <img src='https://www.unige.ch/fapse/womcogdev/application/files/3315/7168/0532/Dubuis.jpg' style='display: block; margin-left: auto; margin-right: auto;' width='150' height='150'>"
   url: "https://www.unige.ch/fapse/people/administration/dubuis-lorraine/"
 
-#- #name: Maybe you next?
+- name: Maybe you next?
   #logo: /images/sections/skills/docker.svg
-  #summary: "Vous vous intéressez aux corrélats neuro-cognitifs des connaissances sémantiques? Ca aurait pu être toi! Prenez contact via ce formulaire. <br> <br> "
-  #url: "https://forms.gle/Z9MTU6G8SQe14DkT9"
+  summary: "Vous vous intéressez aux corrélats neuro-cognitifs des connaissances sémantiques? Ca aurait pu être toi! Prenez contact via ce formulaire. <br> <br> "
+  url: "https://forms.gle/Z9MTU6G8SQe14DkT9"
 
 - name: CNeuromod Team
   #logo: /images/sections/skills/docker.svg
@@ -66,10 +71,10 @@ skills:
   summary: "Professeure assistante dans le département des sciences et des troubles de la communication de l'Université d'Adelphi, elle étudie la neurobiologie du langage et sa relation avec l'émotion et la cognition."
   url: "https://sites.google.com/view/sladjanalukic"
 
-#- name: Dr. Pedro Pinheiro-Chagas, Ph.D.
+- name: Dr. Pedro Pinheiro-Chagas, Ph.D.
   #logo: /images/sections/skills/docker.svg
-  #summary: "Professeur assistant en neurosciences cognitives à l'UCSF, il étudie l'architecture neuronale et la dynamique de l'intelligence humaine, avec un accent sur les systèmes symboliques cognitifs."
-  #url: "https://pinheirochagas.com/"
+  summary: "Professeur assistant en neurosciences cognitives à l'UCSF, il étudie l'architecture neuronale et la dynamique de l'intelligence humaine, avec un accent sur les systèmes symboliques cognitifs."
+  url: "https://pinheirochagas.com/"
 
 - name: Dr. Marina Laganaro, Ph.D.
   #logo: /images/sections/skills/docker.svg

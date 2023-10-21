@@ -12,6 +12,16 @@ section:
 experiences:
 
 - company:
+    name: Lina and Tatiana are joining us to work on their master thesis in neuroscience and psychology respectively.
+  positions:
+  - designation: Welcome Lina & Tatiana!
+    start: October 1st
+    end: 2023
+    responsibilities:
+    - you will do X and Z
+    - you will do X and Z
+
+- company:
     name: We welcome yet another team member, Kenza, a Ph.D. student co-supervised by Valentina and Marie Schaer.
   positions:
   - designation: Welcome Kenza!
