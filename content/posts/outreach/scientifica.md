@@ -1,10 +1,10 @@
 ---
 title: "Scientifica: Switzerland's Premier Science Festival"
 date: 2023-09-13T07:37:59+0000
-description: Description of our partecipation at SCientifica
+description: Description of our partecipation at Scientifica
 menu:
   sidebar:
-    name: Sarah, Abigail, Marion
+    name: Scientifica 2023 
     identifier: vb
     parent: outreach
     weight: 10
