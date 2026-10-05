@@ -19,7 +19,17 @@
         <h2 class="text-center">{{ .mastersStudentsTitle }}</h2>
         <ul>
           {{ range .mastersStudents }}
-            <li>{{ .name }}, {{ .degree }} — {{ .program }}</li>
+            <li>{{ .name }}, {{ .degree }} ({{ .program }})</li>
+          {{ end }}
+        </ul>
+      </div>
+    {{ end }}
+    {{ if .alumni }}
+      <div class="mt-5" id="alumni" style="scroll-margin-top: 5rem;">
+        <h2 class="text-center">{{ .alumniTitle }}</h2>
+        <ul>
+          {{ range .alumni }}
+            <li>{{ .name }}, {{ .degree }} ({{ .years }})</li>
           {{ end }}
         </ul>
       </div>

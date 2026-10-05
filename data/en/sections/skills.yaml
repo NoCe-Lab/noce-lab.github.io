@@ -98,3 +98,22 @@ mastersStudents:
 - name: Paula Sabatés Garcia
   degree: BSc
   program: MSc in Neuroscience
+
+# Former lab members, displayed without photographs.
+alumniTitle: Alumni
+alumni:
+- name: Lina Languer
+  degree: MSc in neurosciences
+  years: 2023-2025
+- name: Tatiana Falquet
+  degree: MSc in Psychology
+  years: 2023-2025
+- name: Carole Cleary
+  degree: MSc in Psychology
+  years: 2024-2026
+- name: Alexia Zbinden
+  degree: MSc in Psychology
+  years: 2024-2026
+- name: Alicia Bassolé
+  degree: MSc in Psychology
+  years: 2024-2026
