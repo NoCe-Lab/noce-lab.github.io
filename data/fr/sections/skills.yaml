@@ -28,11 +28,11 @@ skills:
 
 - name: Kenza Latreche, MSc
   #logo: /images/sections/skills/docker.svg
-  summary: "Doctorante, étudiant le développement du langage et de la sémantique chez les jeunes enfants avec un trouble du spectre de l’autisme.<br> <br> <img src='https://i.imgur.com/wDzHoK7.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
+  summary: "Doctorante, elle étudie le développement du langage et de la sémantique chez les jeunes enfants avec un trouble du spectre de l’autisme.<br> <br> <img src='https://i.imgur.com/wDzHoK7.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: "https://www.researchgate.net/profile/Kenza-Latreche"
 
 - name: Alessa Hausmann, MSc
-  summary: "Doctorante étudiant les corrélats neurocognitifs des maladies neurodégénératives chez les personnes multilingues. <br> <br> <img src='/images/members/alessa-hausmann.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
+  summary: "Doctorante, elle étudie les corrélats neurocognitifs des maladies neurodégénératives chez les personnes multilingues. <br> <br> <img src='/images/members/alessa-hausmann.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: ""
 
 - name: Marion Bouffier, Ph.D.
@@ -104,17 +104,17 @@ mastersStudents:
 alumniTitle: Alumni
 alumni:
 - name: Lina Languer
-  degree: MSc in neurosciences
+  degree: MSc en neurosciences
   years: 2023-2025
 - name: Tatiana Falquet
-  degree: MSc in Psychology
+  degree: MSc en psychologie
   years: 2023-2025
-- name: Carole Cleary
-  degree: MSc in Psychology
-  years: 2024-2026
 - name: Alexia Zbinden
-  degree: MSc in Psychology
+  degree: MSc en psychologie
   years: 2024-2026
 - name: Alicia Bassolé
-  degree: MSc in Psychology
+  degree: MSc en psychologie
+  years: 2024-2026
+- name: Carole Cleary
+  degree: MSc en psychologie
   years: 2024-2026
