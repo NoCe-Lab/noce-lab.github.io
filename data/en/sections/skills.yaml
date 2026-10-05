@@ -16,19 +16,9 @@ skills:
   summary: "Lab director and Assistant Professor at the FAPSE (UNIGE) withing the NCCR Evolving Language. <br> <br> <img src='https://loop.frontiersin.org/images/profile/466768/203' style='display: block; margin-left: auto; margin-right: auto;' width='150' height='150'>"
   url: "https://linktr.ee/vborghesani"
   
-- name: Lina Languer, BSc
-  #logo: /images/sections/skills/docker.svg
-  summary: "Master's student in neurosciences, passionate about the field of language, here to learn and discover. <br> <br> <img src='https://i.imgur.com/sjjjo9O.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
-  url: ""
-
-- name: Tatiana Falquet, BSc
-  #logo: /images/sections/skills/docker.svg
-  summary: "Master’s student in psychology, interested in understanding how aging shapes cognitive functions and brain structures. <br> <br> <img src='https://i.imgur.com/gqfAFF7.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
-  url: ""
-  
 - name: Abigail Licata, MSc
   #logo: /images/sections/skills/docker.svg
-  summary: "PhD student, studying the neurocognitive correlates of semantic knowledge in bilinguals with a multimodal approach. <br> <br> <img src='https://i.imgur.com/nu9aeW0.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
+  summary: "PhD student, studying the neurocognitive correlates of semantic knowledge in bilinguals with a multimodal approach. <br> <br> <img src='/images/members/abigail-licata.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: "https://de.linkedin.com/in/abigail-licata-456929103/zh-cn"
 
 - name: Sarah Saneei, MSc
@@ -40,6 +30,10 @@ skills:
   #logo: /images/sections/skills/docker.svg
   summary: "PhD student, studying the development of language and semantics in young children with autism spectrum disorder. <br> <br> <img src='https://i.imgur.com/wDzHoK7.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: "https://www.researchgate.net/profile/Kenza-Latreche"
+
+- name: Alessa Hausmann, MSc
+  summary: "PhD student, studying the neurocognitive correlates of neurodegenerative disease in multilingual individuals."
+  url: ""
 
 - name: Marion Bouffier, Ph.D.
   #logo: /images/sections/skills/docker.svg
@@ -85,3 +79,22 @@ skills:
   #logo: /images/sections/skills/docker.svg
   summary: "UNIGE (Medicine) Professor in basic neuroscience, he directs a team attempting to uncover general principles of representation and computation in neural circuits."
   url: "https://www.unige.ch/medecine/neuf/en/research/grecherche/alexandre-pouget/g/alexandre-pouget/"
+
+# Current degree and MSc program for students working in the lab.
+mastersStudentsTitle: Current MSc students
+mastersStudents:
+- name: Alexane Dürig
+  degree: BSc
+  program: MSc in Psychology
+- name: Aurélie Straub
+  degree: BSc
+  program: MSc in Psychology
+- name: Enrique Marcos
+  degree: BSc
+  program: MSc in Psychology
+- name: Thomas Hill
+  degree: BSc
+  program: MSc in Psychology
+- name: Paula Sabatés Garcia
+  degree: BSc
+  program: MSc in Neuroscience
