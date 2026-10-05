@@ -12,6 +12,27 @@ section:
 experiences:
 
 - company:
+    name: Nos nouveaux étudiants et étudiantes en master nous rejoignent pour travailler sur leurs mémoires de master en psychologie (Alexane, Aurélie, Enrique et Thomas) et en neurosciences (Paula).
+  positions:
+  - designation: Bienvenue à Alexane, Aurélie, Enrique, Thomas et Paula!
+    start: 1er octobre
+    end: 2025
+
+- company:
+    name: Nous accueillons une nouvelle membre dans l’équipe, Alessa, doctorante.
+  positions:
+  - designation: Bienvenue à Alessa!
+    start: 1er mars
+    end: 2025
+
+- company:
+    name: Alexia, Alicia et Carole nous rejoignent pour travailler sur leurs mémoires de master en psychologie.
+  positions:
+  - designation: Bienvenue à Alexia, Alicia et Carole!
+    start: 1er octobre
+    end: 2024
+
+- company:
     name: Lina et Tatiana nous rejoignent pour travailler sur leur mémoire de master en neurosciences et en psychologie, respectivement.
   positions:
   - designation: Bienvenue à Lina & Tatiana!
