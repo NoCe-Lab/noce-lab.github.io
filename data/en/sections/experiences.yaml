@@ -12,6 +12,27 @@ section:
 experiences:
 
 - company:
+    name: Our new master’s students are joining us to work on their master’s theses in psychology (Alexane, Aurélie, Enrique, and Thomas) and neuroscience (Paula).
+  positions:
+  - designation: Welcome Alexane, Aurélie, Enrique, Thomas, and Paula!
+    start: October 1st
+    end: 2025
+
+- company:
+    name: We welcome a new team member, Alessa, a Ph.D. student.
+  positions:
+  - designation: Welcome Alessa!
+    start: March 1st
+    end: 2025
+
+- company:
+    name: Alexia, Alicia, and Carole are joining us to work on their master’s theses in psychology.
+  positions:
+  - designation: Welcome Alexia, Alicia & Carole!
+    start: October 1st
+    end: 2024
+
+- company:
     name: Lina and Tatiana are joining us to work on their master thesis in neuroscience and psychology respectively.
   positions:
   - designation: Welcome Lina & Tatiana!

@@ -16,19 +16,9 @@ skills:
   summary: "Directrice du laboratoire et professeure assistante à la FAPSE (UNIGE) au sein du NCCR Evolving Language. <br> <br> <img src='https://loop.frontiersin.org/images/profile/466768/203' style='display: block; margin-left: auto; margin-right: auto;' width='150' height='150'>"
   url: "https://linktr.ee/vborghesani"
 
-- name: Lina Languer, BSc
-  #logo: /images/sections/skills/docker.svg
-  summary: " Étudiante en master de neurosciences, passionnée par le domaine du langage, ici pour apprendre et découvrir. <br> <br> <img src='https://i.imgur.com/sjjjo9O.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
-  url: ""
-
-- name: Tatiana Falquet, BSc
-  #logo: /images/sections/skills/docker.svg
-  summary: " Étudiante en master, intéressée à comprendre comment le vieillissement influence les fonctions cognitives et les structures cérébrales. <br> <br> <img src='https://i.imgur.com/gqfAFF7.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
-  url: ""
-  
 - name: Abigail Licata, MSc
   #logo: /images/sections/skills/docker.svg
-  summary: "Doctorante, elle étudie les corrélats neurocognitifs des connaissances sémantiques chez les bilingues avec une approche multimodale.  <br> <br> <img src='https://i.imgur.com/nu9aeW0.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
+  summary: "Doctorante, elle étudie les corrélats neurocognitifs des connaissances sémantiques chez les bilingues avec une approche multimodale.  <br> <br> <img src='/images/members/abigail-licata.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: "https://de.linkedin.com/in/abigail-licata-456929103/zh-cn"
 
 - name: Sarah Saneei, MSc
@@ -38,8 +28,12 @@ skills:
 
 - name: Kenza Latreche, MSc
   #logo: /images/sections/skills/docker.svg
-  summary: "Doctorante, étudiant le développement du langage et de la sémantique chez les jeunes enfants avec un trouble du spectre de l’autisme.<br> <br> <img src='https://i.imgur.com/wDzHoK7.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
+  summary: "Doctorante, elle étudie le développement du langage et de la sémantique chez les jeunes enfants avec un trouble du spectre de l’autisme.<br> <br> <img src='https://i.imgur.com/wDzHoK7.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
   url: "https://www.researchgate.net/profile/Kenza-Latreche"
+
+- name: Alessa Hausmann, MSc
+  summary: "Doctorante, elle étudie les corrélats neurocognitifs des maladies neurodégénératives chez les personnes multilingues. <br> <br> <img src='/images/members/alessa-hausmann.jpeg' style='display: block; margin-left: auto; margin-right: auto;' height='150'>"
+  url: ""
 
 - name: Marion Bouffier, Ph.D.
   #logo: /images/sections/skills/docker.svg
@@ -85,3 +79,42 @@ skills:
   #logo: /images/sections/skills/docker.svg
   summary: "UNIGE (Medicine) Professeur en neurosciences fondamentales, il dirige une équipe qui tente de découvrir les principes généraux de représentation et de calcul dans les circuits neuronaux."
   url: "https://www.unige.ch/medecine/neuf/en/research/grecherche/alexandre-pouget/g/alexandre-pouget/"
+
+
+# Current degree and MSc program for students working in the lab.
+mastersStudentsTitle: Étudiantes et étudiants en master
+mastersStudents:
+- name: Alexane Dürig
+  degree: BSc
+  program: Master en psychologie
+- name: Aurélie Straub
+  degree: BSc
+  program: Master en psychologie
+- name: Enrique Marcos
+  degree: BSc
+  program: Master en psychologie
+- name: Thomas Hill
+  degree: BSc
+  program: Master en psychologie
+- name: Paula Sabatés Garcia
+  degree: BSc
+  program: Master en neurosciences
+
+# Former lab members, displayed without photographs.
+alumniTitle: Alumni
+alumni:
+- name: Lina Languer
+  degree: MSc en neurosciences
+  years: 2023-2025
+- name: Tatiana Falquet
+  degree: MSc en psychologie
+  years: 2023-2025
+- name: Alexia Zbinden
+  degree: MSc en psychologie
+  years: 2024-2026
+- name: Alicia Bassolé
+  degree: MSc en psychologie
+  years: 2024-2026
+- name: Carole Cleary
+  degree: MSc en psychologie
+  years: 2024-2026
